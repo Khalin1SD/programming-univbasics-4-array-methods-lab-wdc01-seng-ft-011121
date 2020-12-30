@@ -8,7 +8,6 @@ def using_sort(array)
   binding.pry
   array.sort 
 end
-using_sort(array)
 
 def using_reverse(array)
 
