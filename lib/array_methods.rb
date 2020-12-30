@@ -4,9 +4,11 @@ end
 using_include(["wow", "I", "am", "really", "learning", "arrays!"], "wow")
 
 def using_sort(array)
-  array = []
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.sort 
 
 end
+using_sort(array)
 
 def using_reverse(array)
 
